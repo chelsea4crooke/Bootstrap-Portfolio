@@ -1,0 +1,12 @@
+.carousel-caption {
+    color: lightcoral;
+    background: lightcyan;
+    padding: 0;
+    border: 2px solid navy;
+}
+.port1, .port2, .port3, .port4, .port5{
+    border: 8px solid navy;
+}
+#Main {
+    background: #e3f2fd;
+}
